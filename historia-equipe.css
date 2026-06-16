@@ -12,13 +12,13 @@ h1 {
     font-style: italic;
     font-size: 2em;
     margin-bottom: 10px;
-    text-shadow: 1px 1px 3px #000;
+    text-shadow: 1px 1px 4px #000;
 }
 
 hr {
     border: none;
     height: 2px;
-    background-color: #444;
+    background-color: #E10600;
     margin: 20px 0;
 }
 
@@ -27,11 +27,11 @@ p {
     max-width: 800px;
     text-align: justify;
     color: #d3d3d3;
-    background-color: #1e1e1e;
+    background-color: #111111;
     padding: 15px;
     border-left: 4px solid #E10600;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(245, 197, 24, 0.1);
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
 }
 footer{
     color: #E10600;
