@@ -1,6 +1,6 @@
 body {
-    background-color: #000000; 
-    color: #E10600; 
+    background-color: #000000;
+    color: #dcdcdc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding: 20px;
@@ -8,11 +8,11 @@ body {
 }
 
 h1 {
-    color: #E10600;
+   color: #E10600; 
     font-style: italic;
     font-size: 2em;
+    text-shadow: 2px 2px 4px #000;
     margin-bottom: 10px;
-    text-shadow: 1px 1px 4px #000;
 }
 
 hr {
@@ -23,16 +23,17 @@ hr {
 }
 
 p {
-    margin: 20px auto;
     max-width: 800px;
+    margin: 20px auto;
     text-align: justify;
-    color: #d3d3d3;
     background-color: #111111;
     padding: 15px;
     border-left: 4px solid #E10600;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
+    color: #dcdcdc;
 }
-footer{
-    color: #E10600;
+
+footer {
+    color:#E10600;
 }
